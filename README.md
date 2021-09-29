@@ -1,0 +1,1 @@
+This is a project proposed by The Odin Project, it was done using HTML, in resume, it's a page with recipes of some foods.
